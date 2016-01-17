@@ -1,0 +1,16 @@
+{
+  "name": "react-webpack-gulp",
+  "version": "1.0.0",
+  "description": "demo with react, webpack, gulp",
+  "devDependencies": {
+    "babel-loader": "^6.2.1",
+    "babel-preset-react": "^6.3.13",
+    "css-sprite": "^0.9.9",
+    "gulp": "^3.9.0",
+    "gulp-webpack": "^1.5.0",
+    "jsx-loader": "^0.13.2"
+  },
+  "dependencies": {
+    "react": "^0.14.6"
+  }
+}
