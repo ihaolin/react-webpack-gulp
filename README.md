@@ -6,7 +6,11 @@ A simple react webpack gulp demo app.
 
 + Running
 
-
-    ./init.sh # init dev modules
-    gulp # build source
+    ```bash
+    # init dev modules
+    ./init.sh 	
+    # build source
+    gulp 		
+    # open login.html in browser
     open login.html
+    ```
